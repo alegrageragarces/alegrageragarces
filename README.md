@@ -37,7 +37,7 @@ In terms of open source I have worked/contributed to the following repos:
 - Qiskit: an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and algorithms. 
 - QuantumClifford: a simulator of Clifford circuits, graph states, and other quantum Stabilizer formalism tools. 
 
-### You can find me on: [LinkedIn][1].
+### You can find me on: [LinkedIn][1], [Bluesky][2], and [Google Scholar][3].
 [1]: https://www.linkedin.com/in/maria-gragera-garces/
-
-
+[2]: https://bsky.app/profile/grageragarces.github.io
+[3]: https://scholar.google.com/citations?user=QydE450AAAAJ&hl=en
