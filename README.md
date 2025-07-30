@@ -16,10 +16,10 @@ My career thus far looks a bit like this:
 You can find the full story on [LinkedIn][1].
 
 ### 📝 Research 
-My current research focuses on distributed quantum computing, under the supervision of Chris Heunen and Mahesh Marina. 
-I've received a [Unitary Fund microgrant](https://unitary.foundation) and a [SandboxAQ Research Excellence Scholarship](https://www.sandboxaq.com/company/scholarships) for my work on distributed quantum software.
-I’ve recently started a [blog on the topic of distributed quantum computing](https://grageragarces.github.io/dqc).
-Much of my earlier work revolved around quantum networking, including protocol design and simulation using NetSquid and Python, contributions to a quantum error correction library for Julia’s QuantumClifford, comparisons of quantum and classical networks across different topologies, and Qiskit use-case programming.
+My current research focuses on distributed quantum computing, under the supervision of Chris Heunen and Mahesh Marina.  
+I've received a [Unitary Fund microgrant](https://unitary.foundation) and a [SandboxAQ Research Excellence Scholarship](https://www.sandboxaq.com/company/scholarships) for my work on distributed quantum software.  
+I currently mantain a [blog on the topic of distributed quantum computing](https://grageragarces.github.io/dqc).  
+Much of my earlier work revolved around quantum networking, including protocol design and simulation using NetSquid and Python, contributions to a quantum error correction library for Julia’s QuantumClifford, comparisons of quantum and classical networks across different topologies, and Qiskit use-case programming.  
 
 Although I no longer update it, my Quantum-tech-papers repository provides a good snapshot of my early interests before I started my PhD.
 
