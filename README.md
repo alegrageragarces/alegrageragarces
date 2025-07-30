@@ -23,7 +23,7 @@ Much of my earlier work revolved around quantum networking, including protocol d
 
 Although I no longer update it, my Quantum-tech-papers repository provides a good snapshot of my early interests before I started my PhD.
 
-I completed my BSc dissertation in 2024, which involved modelling photon pair generation in a dual-rail lithium niobate photonic nanowire setup. This work was supervised by Dr. Andriy Gorbach and Dr. Peter Mosley at the University of Bath, in collaboration with my project partner.
+I completed my BSc dissertation in 2024, which involved modelling photon pair generation in a dual-rail lithium niobate photonic nanowire setup. This work was supervised by Dr. Andriy Gorbach and Dr. Peter Mosley at the University of Bath, in collaboration with my project partner Christian Williams.
 
 ### 👩‍💻 Code 
 [![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=grageragarces&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
