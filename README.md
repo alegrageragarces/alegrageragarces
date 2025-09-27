@@ -4,6 +4,7 @@
 
 ### 📚 Background
 I am Maria (she/her), a Quantum Informatics PhD student at the University of Edinburgh, with a passion for quantum software.
+I am currently an intern at Quantinuum's compiler team, working on compiler level optimizations with both Rust and Python.
 My career thus far looks a bit like this: 
 
 - 2019/2024 Bsc Physics at the University of Bath
@@ -12,6 +13,7 @@ My career thus far looks a bit like this:
 - 2023 GitHub campus expert at the University of Bath
 - 2023/2024 IBM Quantum Intern
 - 2024/2028 PhD Quantum Informatics at the University of Edinburgh
+- 2025 Quantinuum intern: see my contributions [@mariagg-quantinuum](https://github.com/mariagg-quantinuum)
 
 You can find the full story on [LinkedIn][1].
 
@@ -28,7 +30,7 @@ I completed my BSc dissertation in 2024, which involved modelling photon pair ge
 ### 👩‍💻 Code 
 [![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=grageragarces&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-My top languages are: Python, MATLAB, Julia & C.
+My top languages are: Python, Rust, Julia & C.
 
 I have experience using: Qiskit, as well as various Quantum Discrete event simulators, such as Netsquid and SeQUeNCe. 
 In my repositories, you can find examples of my Quantum Discrete event simulations (Python) as well as my personal academic quantum paper library, and one of my projects based on multidimentional superconducting materials (C).
