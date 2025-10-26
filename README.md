@@ -9,10 +9,7 @@ My career thus far looks a bit like this:
 
 - 2025/20.. Computer Science at the UFV University
 
-You can find the full story on [LinkedIn][1].
-
-### You can find me on: [LinkedIn][1]
-
+You can find the full story on 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=grageragarces&theme=onedark)](https://github.com/grageragarces/github-profile-trophy)
 
