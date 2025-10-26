@@ -11,5 +11,3 @@ My career thus far looks a bit like this:
 
 You can find the full story on 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=grageragarces&theme=onedark)](https://github.com/grageragarces/github-profile-trophy)
-
