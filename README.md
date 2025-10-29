@@ -9,5 +9,6 @@ My career thus far looks a bit like this:
 
 - 2025/20.. Computer Science at the UFV University
 
-You can find the full story on 
+You can find the full story on https://www.linkedin.com/in/alejandro-gragera-garcés-6b9ba8255/
+
 
